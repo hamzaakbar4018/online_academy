@@ -9,7 +9,7 @@ import Why from './Components/Why'
 
 const App = () => {
   return (
-    <div className='ml-3'>
+    <div className=''>
       <NavBar/>
       <Main/>
       <Courses/>
